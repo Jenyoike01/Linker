@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "890657086136",
+    "project_id": "food-saver-c3615",
+    "storage_bucket": "food-saver-c3615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890657086136:android:8f38a92e3bfc2568c5b24d",
+        "android_client_info": {
+          "package_name": "com.codingstuff.loginandsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890657086136-joam4jgtqofrgvcpvkhcco01sg6nesb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3d4PNIc2TNFaIPRuJISByTr3wPBEbi8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890657086136-joam4jgtqofrgvcpvkhcco01sg6nesb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
